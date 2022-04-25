@@ -1,1 +1,1 @@
-feat: Add user authentication system
+feat: Implement event creation flow
