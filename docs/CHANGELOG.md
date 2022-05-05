@@ -1,1 +1,1 @@
-fix: Resolve authentication token refresh issues
+feat: Add event search and filtering
