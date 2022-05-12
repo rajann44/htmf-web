@@ -1,1 +1,1 @@
-feat: Add event search and filtering
+refactor: Improve component structure
