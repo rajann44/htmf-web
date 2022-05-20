@@ -1,1 +1,1 @@
-refactor: Improve component structure
+feat: Implement user profiles
