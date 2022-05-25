@@ -1,1 +1,1 @@
-feat: Implement user profiles
+fix: Address mobile responsiveness issues
