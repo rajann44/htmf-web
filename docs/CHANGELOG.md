@@ -1,1 +1,1 @@
-fix: Address mobile responsiveness issues
+feat: Add event categories and tags
