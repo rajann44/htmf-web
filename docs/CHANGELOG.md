@@ -1,1 +1,1 @@
-feat: Add event categories and tags
+refactor: Optimize state management
