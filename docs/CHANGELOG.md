@@ -1,1 +1,1 @@
-refactor: Optimize state management
+feat: Implement event notifications
