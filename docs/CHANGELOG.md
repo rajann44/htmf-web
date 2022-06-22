@@ -1,1 +1,1 @@
-feat: Implement event notifications
+fix: Resolve notification delivery issues
