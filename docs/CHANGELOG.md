@@ -1,1 +1,1 @@
-fix: Resolve notification delivery issues
+feat: Add event sharing functionality
