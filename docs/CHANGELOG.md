@@ -1,1 +1,1 @@
-feat: Add event sharing functionality
+feat: Add event comments and discussions
