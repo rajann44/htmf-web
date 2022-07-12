@@ -1,1 +1,1 @@
-feat: Add event comments and discussions
+refactor: Improve error handling
