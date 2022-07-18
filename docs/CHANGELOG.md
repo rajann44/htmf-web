@@ -1,1 +1,1 @@
-refactor: Improve error handling
+feat: Implement event ratings
