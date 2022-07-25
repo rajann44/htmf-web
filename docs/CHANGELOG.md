@@ -1,1 +1,1 @@
-feat: Implement event ratings
+fix: Address performance bottlenecks
