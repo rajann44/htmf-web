@@ -1,1 +1,1 @@
-fix: Address performance bottlenecks
+feat: Add event recommendations
