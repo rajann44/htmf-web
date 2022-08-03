@@ -1,1 +1,1 @@
-feat: Add event recommendations
+feat: Add event calendar integration
