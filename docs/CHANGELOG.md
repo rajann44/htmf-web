@@ -1,1 +1,1 @@
-feat: Add event calendar integration
+refactor: Update UI components
