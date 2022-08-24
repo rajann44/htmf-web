@@ -1,1 +1,1 @@
-feat: Implement event reminders
+fix: Resolve calendar sync issues
