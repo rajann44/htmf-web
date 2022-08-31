@@ -1,1 +1,1 @@
-fix: Resolve calendar sync issues
+feat: Add event templates
