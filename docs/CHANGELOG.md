@@ -1,1 +1,1 @@
-feat: Add event templates
+feat: Add event analytics
