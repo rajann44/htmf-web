@@ -1,1 +1,1 @@
-feat: Add event analytics
+refactor: Optimize data fetching
