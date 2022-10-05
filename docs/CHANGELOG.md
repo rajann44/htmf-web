@@ -1,1 +1,1 @@
-feat: Add event export functionality
+feat: Add event check-in system
