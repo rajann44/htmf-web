@@ -1,1 +1,1 @@
-feat: Add event check-in system
+refactor: Improve form validation
