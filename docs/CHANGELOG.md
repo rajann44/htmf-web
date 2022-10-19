@@ -1,1 +1,1 @@
-refactor: Improve form validation
+feat: Implement QR code generation
