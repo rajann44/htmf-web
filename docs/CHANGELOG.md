@@ -1,1 +1,1 @@
-feat: Implement QR code generation
+fix: Resolve check-in validation issues
