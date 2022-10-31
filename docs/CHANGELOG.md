@@ -1,1 +1,1 @@
-fix: Resolve check-in validation issues
+feat: Add event attendance tracking
