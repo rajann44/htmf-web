@@ -1,1 +1,1 @@
-feat: Add event attendance tracking
+feat: Add event feedback system
