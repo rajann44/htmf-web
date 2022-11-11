@@ -1,1 +1,1 @@
-feat: Add event feedback system
+refactor: Update state management
