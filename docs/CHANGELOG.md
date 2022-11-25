@@ -1,1 +1,1 @@
-feat: Implement feedback analytics
+fix: Address feedback submission issues
