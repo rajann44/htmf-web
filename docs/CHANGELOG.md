@@ -1,1 +1,1 @@
-feat: Add event scheduling system
+refactor: Improve date handling
