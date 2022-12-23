@@ -1,1 +1,1 @@
-feat: Implement recurring events
+fix: Resolve scheduling conflicts
