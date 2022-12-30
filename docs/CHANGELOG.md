@@ -1,1 +1,1 @@
-fix: Resolve scheduling conflicts
+feat: Add event series management
